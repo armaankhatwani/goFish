@@ -1,1 +1,1 @@
-# goFish
+This is a simple Python implementation of the classic card game "Go Fish." In Go Fish, the goal is to collect sets of four cards with the same rank. You can play against the computer, and the game continues until there are no cards left in the deck. The player with the most sets wins. Created using multiple classes, objects, methods, loops, conditonal statements and user input.
